@@ -1,6 +1,6 @@
 # Machine-Learning
 
-MAchine Learning Class Projects:
+Machine Learning Class Projects: (Python)
 
  Project 1:
     Batch K-means
